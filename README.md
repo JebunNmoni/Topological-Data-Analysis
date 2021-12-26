@@ -1,1 +1,3 @@
 # Topological Data Analysis
+
+Notes
